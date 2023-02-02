@@ -1,3 +1,5 @@
+package Strategy;
+
 public class ProteinDiet implements EatBehaviour{
 
     @Override

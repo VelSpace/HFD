@@ -1,3 +1,5 @@
+package Strategy;
+
 public class Duck1 extends Duck {
 
     @Override

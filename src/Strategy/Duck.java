@@ -1,3 +1,5 @@
+package Strategy;
+
 public abstract class Duck {
 
     //encapsulate different logics from different class or interfaces

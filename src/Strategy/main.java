@@ -1,3 +1,5 @@
+package Strategy;
+
 public class main {
     public static void main(String[] args) {
         Duck obj  = new Duck1();

@@ -1,3 +1,5 @@
+package Strategy;
+
 public class FlyWithNoWings implements FlyBehaviour{
 
     @Override
